@@ -4,9 +4,13 @@
 int main()
 {
 	int i;
-	while(i==i)
+	
+	// Oo LOL
+	while(i == i)
 	{
 		printf("\n rigolo");
 	}
+	
+	return 1;
 }
 

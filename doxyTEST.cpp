@@ -1,5 +1,8 @@
 //! Generate a stack overflow
-/*! \brief General Recommendations : Do not use.
+/*! 
+ * \brief General Recommendations : Do not use.
+ */
+
 
 #include <iostream>
 
